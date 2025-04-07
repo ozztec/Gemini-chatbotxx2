@@ -209,7 +209,7 @@ export default function Chat() {
         >
           Developed by{" "}
           <Link
-            href="https://smrehman.vercel.app/"
+            href="https://gemini-chatbotxx2.vercel.app/"
             className="text-purple-300 hover:underline"
           >
             Ozz
