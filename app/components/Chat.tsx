@@ -67,7 +67,7 @@ export default function Chat() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7, delay: 0.2, ease: "easeOut" }}
         >
-          AI Chat Assistant
+          Yapay Zeka Chat Asistan
         </motion.h1>
         <motion.p
           className="mt-2 text-base text-gray-300"
@@ -75,7 +75,7 @@ export default function Chat() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7, delay: 0.4, ease: "easeOut" }}
         >
-          Powered by Google Gemini AI
+          Powered by Ozz AI
         </motion.p>
         <motion.p
           className="mt-1 text-xs text-gray-400 italic"
@@ -83,7 +83,7 @@ export default function Chat() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7, delay: 0.6, ease: "easeOut" }}
         >
-          Model: Gemini 2.0 flash Thinking Experimental 02-05
+          Model: Ozz 2.0 
         </motion.p>
       </header>
 
@@ -212,7 +212,7 @@ export default function Chat() {
             href="https://smrehman.vercel.app/"
             className="text-purple-300 hover:underline"
           >
-            Syed Minam Ur Rehman
+            Ozz
           </Link>
          
           <motion.p
